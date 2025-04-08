@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { Scissors, Sprout, Tree, CloudRain, Shovel, Calendar } from 'lucide-react';
+import { Scissors, Sprout, Trees, CloudRain, Shovel, Calendar } from 'lucide-react';
 
 const servicesList = [
   {
@@ -16,7 +16,7 @@ const servicesList = [
   {
     title: "Tree & Shrub Care",
     description: "Professional pruning, shaping, and maintenance of trees and shrubs to enhance your landscape.",
-    icon: <Tree className="h-10 w-10 text-brand-orange" />
+    icon: <Trees className="h-10 w-10 text-brand-orange" />
   },
   {
     title: "Irrigation Services",
