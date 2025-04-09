@@ -44,8 +44,8 @@ const Hero = () => {
         <div className="h-56 w-full bg-brand-orange/20 sm:h-72 md:h-96 lg:w-full lg:h-full">
           <img
             className="h-full w-full object-cover mix-blend-multiply"
-            src="https://images.unsplash.com/photo-1626189306872-0f8eff12cfad?q=80&w=2070&auto=format&fit=crop"
-            alt="Professional lawn service cutting a perfectly manicured yard"
+            src="/lovable-uploads/66dfa6cb-4c59-44ba-a72a-1aa3aca4624c.png"
+            alt="Perfectly striped lawn with landscaped garden beds and trees"
           />
         </div>
       </div>
