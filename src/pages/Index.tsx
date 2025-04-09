@@ -10,9 +10,9 @@ import Footer from '@/components/Footer';
 
 const Index = () => {
   useEffect(() => {
-    // Log to check if the page is loading correctly
+    // Simple log to check if the page is loading
     console.log('Index page loaded');
-    // Check if image exists
+    // Simple image check
     const img = new Image();
     img.src = '/lovable-uploads/66dfa6cb-4c59-44ba-a72a-1aa3aca4624c.png';
     img.onload = () => console.log('Hero image loaded successfully');
